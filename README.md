@@ -25,6 +25,22 @@ Report_Data,FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Conf
 
 Ps.: The python version used was 3.7, however, you probably will be able to run on python 2.6 as well.
 
+To run, just clone the code and execute as below
+```
+$ ./covid-19_dataset.py 
+Link: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+01-22-2020.csv
+01-23-2020.csv
+01-24-2020.csv
+01-25-2020.csv
+01-26-2020.csv
+...
+03-27-2020.csv
+03-28-2020.csv
+03-29-2020.csv
+Saving to file: covid_final_timeframe.csv
+```
+
 Hope you enjoy this dataset.
 
 Be Safe
